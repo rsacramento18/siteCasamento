@@ -3,6 +3,7 @@
     <logo></logo>
     <home></home>
     <planeamento></planeamento>
+    <prendas></prendas>
   </div>
 </template>
 
@@ -10,13 +11,15 @@
 import Logo from '@/components/Logo'
 import Home from '@/components/Home'
 import Planeamento from '@/components/Planeamento'
+import Prendas from '@/components/Prendas'
 
 export default {
   name: 'app',
   components : {
     Logo,
     Home,
-    Planeamento
+    Planeamento,
+    Prendas
   }
 }
 </script>

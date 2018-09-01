@@ -14,7 +14,7 @@
         <ul>
           <li><a href="#home" >{{ nav1 }}</a></li>
           <li><a href="#planeamento" >{{ nav2 }}</a></li>
-          <li><a href="#" target="_blank">{{ nav3 }}</a></li>
+          <li><a href="#prendas" >{{ nav3 }}</a></li>
           <li><a href="#" target="_blank">{{ nav4 }}</a></li>
           <li><a href="#" target="_blank">{{ nav5 }}</a></li>
         </ul>

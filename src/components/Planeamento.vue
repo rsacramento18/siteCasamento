@@ -86,7 +86,6 @@ h1 {
 
 p {
   font-weight: 300;
-  font-style: italic;
   font-size: 1.4em;
   text-align: left;
   padding-top: 40px;
